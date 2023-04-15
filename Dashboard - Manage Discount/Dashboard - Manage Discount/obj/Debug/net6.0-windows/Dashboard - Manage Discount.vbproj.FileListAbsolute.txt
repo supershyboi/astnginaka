@@ -1,0 +1,17 @@
+C:\Users\Triar\source\repos\Dashboard - Manage Discount\Dashboard - Manage Discount\bin\Debug\net6.0-windows\Dashboard - Manage Discount.exe
+C:\Users\Triar\source\repos\Dashboard - Manage Discount\Dashboard - Manage Discount\bin\Debug\net6.0-windows\Dashboard - Manage Discount.deps.json
+C:\Users\Triar\source\repos\Dashboard - Manage Discount\Dashboard - Manage Discount\bin\Debug\net6.0-windows\Dashboard - Manage Discount.runtimeconfig.json
+C:\Users\Triar\source\repos\Dashboard - Manage Discount\Dashboard - Manage Discount\bin\Debug\net6.0-windows\Dashboard - Manage Discount.dll
+C:\Users\Triar\source\repos\Dashboard - Manage Discount\Dashboard - Manage Discount\bin\Debug\net6.0-windows\Dashboard - Manage Discount.pdb
+C:\Users\Triar\source\repos\Dashboard - Manage Discount\Dashboard - Manage Discount\obj\Debug\net6.0-windows\Dashboard - Manage Discount.vbproj.AssemblyReference.cache
+C:\Users\Triar\source\repos\Dashboard - Manage Discount\Dashboard - Manage Discount\obj\Debug\net6.0-windows\Dashboard___Manage_Discount.Form1.resources
+C:\Users\Triar\source\repos\Dashboard - Manage Discount\Dashboard - Manage Discount\obj\Debug\net6.0-windows\Dashboard - Manage Discount.vbproj.GenerateResource.cache
+C:\Users\Triar\source\repos\Dashboard - Manage Discount\Dashboard - Manage Discount\obj\Debug\net6.0-windows\Dashboard - Manage Discount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Triar\source\repos\Dashboard - Manage Discount\Dashboard - Manage Discount\obj\Debug\net6.0-windows\Dashboard - Manage Discount.AssemblyInfoInputs.cache
+C:\Users\Triar\source\repos\Dashboard - Manage Discount\Dashboard - Manage Discount\obj\Debug\net6.0-windows\Dashboard - Manage Discount.AssemblyInfo.vb
+C:\Users\Triar\source\repos\Dashboard - Manage Discount\Dashboard - Manage Discount\obj\Debug\net6.0-windows\Dashboard - Manage Discount.vbproj.CoreCompileInputs.cache
+C:\Users\Triar\source\repos\Dashboard - Manage Discount\Dashboard - Manage Discount\obj\Debug\net6.0-windows\Dashboard - Manage Discount.dll
+C:\Users\Triar\source\repos\Dashboard - Manage Discount\Dashboard - Manage Discount\obj\Debug\net6.0-windows\refint\Dashboard - Manage Discount.dll
+C:\Users\Triar\source\repos\Dashboard - Manage Discount\Dashboard - Manage Discount\obj\Debug\net6.0-windows\Dashboard - Manage Discount.pdb
+C:\Users\Triar\source\repos\Dashboard - Manage Discount\Dashboard - Manage Discount\obj\Debug\net6.0-windows\Dashboard - Manage Discount.genruntimeconfig.cache
+C:\Users\Triar\source\repos\Dashboard - Manage Discount\Dashboard - Manage Discount\obj\Debug\net6.0-windows\ref\Dashboard - Manage Discount.dll
