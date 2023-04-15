@@ -1,0 +1,17 @@
+C:\Users\Triar\source\repos\Sales\Sales\bin\Debug\net6.0-windows\Sales.exe
+C:\Users\Triar\source\repos\Sales\Sales\bin\Debug\net6.0-windows\Sales.deps.json
+C:\Users\Triar\source\repos\Sales\Sales\bin\Debug\net6.0-windows\Sales.runtimeconfig.json
+C:\Users\Triar\source\repos\Sales\Sales\bin\Debug\net6.0-windows\Sales.dll
+C:\Users\Triar\source\repos\Sales\Sales\bin\Debug\net6.0-windows\Sales.pdb
+C:\Users\Triar\source\repos\Sales\Sales\obj\Debug\net6.0-windows\Sales.vbproj.AssemblyReference.cache
+C:\Users\Triar\source\repos\Sales\Sales\obj\Debug\net6.0-windows\Sales.Form1.resources
+C:\Users\Triar\source\repos\Sales\Sales\obj\Debug\net6.0-windows\Sales.vbproj.GenerateResource.cache
+C:\Users\Triar\source\repos\Sales\Sales\obj\Debug\net6.0-windows\Sales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Triar\source\repos\Sales\Sales\obj\Debug\net6.0-windows\Sales.AssemblyInfoInputs.cache
+C:\Users\Triar\source\repos\Sales\Sales\obj\Debug\net6.0-windows\Sales.AssemblyInfo.vb
+C:\Users\Triar\source\repos\Sales\Sales\obj\Debug\net6.0-windows\Sales.vbproj.CoreCompileInputs.cache
+C:\Users\Triar\source\repos\Sales\Sales\obj\Debug\net6.0-windows\Sales.dll
+C:\Users\Triar\source\repos\Sales\Sales\obj\Debug\net6.0-windows\refint\Sales.dll
+C:\Users\Triar\source\repos\Sales\Sales\obj\Debug\net6.0-windows\Sales.pdb
+C:\Users\Triar\source\repos\Sales\Sales\obj\Debug\net6.0-windows\Sales.genruntimeconfig.cache
+C:\Users\Triar\source\repos\Sales\Sales\obj\Debug\net6.0-windows\ref\Sales.dll
